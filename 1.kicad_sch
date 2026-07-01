@@ -5607,6 +5607,16 @@
 		)
 		(uuid "ffd4f1b6-846a-42aa-9b6a-b5e6f3e1a1a3")
 	)
+	(label "Izmena"
+		(at 139.7 44.45 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(justify left bottom)
+		)
+		(uuid "0829bf20-33bc-47ba-a94b-126ab68c11bf")
+	)
 	(label "123"
 		(at 142.24 38.1 0)
 		(effects
